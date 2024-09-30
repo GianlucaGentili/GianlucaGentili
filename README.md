@@ -5,7 +5,6 @@ Front-End Developer
 -------------------
 
 * 🌍  I'm based in Rome - Italy
-* 🖥️  See my portfolio at [Portfolio](http://gianlucagentili.github.io)
 * ✉️  You can contact me at [gentiligian@gmail.com](mailto:gentiligian@gmail.com)
 * 🧠  I'm learning REACT
 
